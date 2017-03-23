@@ -18,7 +18,7 @@ object Main
     println("A utility for repacking modified spring boot executable")
     println("Author: bugbug0102")
     println
-    println(s"USage: [input jar] [output jar]")
+    println(s"Usage: [input jar] [output jar]")
   }
   
   def main(args:Array[String]):Unit =
